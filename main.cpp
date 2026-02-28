@@ -1,1 +1,5 @@
--e "#include <iostream>\n\nint main() {\n    return 0;\n}" 
+#include <iostream>
+
+int main() { 
+    //ini versi 2
+} 
