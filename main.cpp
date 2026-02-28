@@ -1,1 +1,6 @@
--e "#include <iostream>\n\nint main() {\n    return 0;\n}" 
+#include <iostream>
+
+int main() {
+    std::cout << "versi 1!" << std::endl;
+    return 0;
+}
