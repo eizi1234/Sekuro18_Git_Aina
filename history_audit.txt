@@ -1,0 +1,30 @@
+  222  git branch
+  223  uname -sr && whoami
+  224  sudo apt update && sudo apt install build-essential -y
+  225  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+  226  g++ --version && make --version
+  227  mkdir ~/recovery_ops
+  228  cd ~/recovery_ops
+  229  curl -0 https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+  230  ls -l
+  231  cat system_rat.txt
+  232  grep "ERROR" system_raw.txt
+  233  wc -l system_raw.txt
+  234  curl -O https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+  235  ls -l
+  236  cat system_raw.txt
+  237  ls -l ~/recovery_ops
+  238  head -n 10 system_raw.txt
+  239  sed -n '1250,1260p'
+  240  clear
+  241  curl -O https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+  242  ls -l ~/recovery_ops
+  243  head -n 10 system_raw.txt
+  244  head -n 1260 system_raw.txt
+  245  recovered_sector.txt
+  246  |
+  247  | tail -n 11
+  248  head -n 1260 system_raw.txt| tail -n 11
+  249  head -n 1260 system_raw.txt | tail -n 11 > recovered_sector.txt
+  250  code .
+  251  history | tail -n 30 > history_audit.txt
