@@ -37,4 +37,5 @@ int main() {
     robot.prosesLogika();
     robot.cetakStatus();
     return 0;
+
 }
