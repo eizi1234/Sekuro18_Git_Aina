@@ -1,6 +1,0 @@
-*   64b10ea menggabungkan v1 dan v2 dengan baik
-|\  
-| * fdd4a52 menambahkan komentar versi 2
-* | 2bb6d6f menyimpan perubahan sebelum merge
-|/  
-* 330eb8e inisiasi github
